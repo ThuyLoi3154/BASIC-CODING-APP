@@ -1,5 +1,6 @@
 # BASIC-CODING-APP
 This project has been done according to the Python Introduction course requirements
+
 Question 1 (3 points):
 Write a program to check the validity of passwords entered by the user. The password validation criteria are:
 
